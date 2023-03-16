@@ -5,7 +5,7 @@ We are generating tokens using Django-Knox. The tokens are JWT tokens
 
 # Installation
 install virtual environment
-<p>$ virtualenv</P>
+<p>$ virtualenv venv</P>
 <p>Activate environment</P>
 <p>$ source venv/Scripts/activate</P>
 <hr/>
